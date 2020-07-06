@@ -3,78 +3,69 @@
 #
 
 sidebar:
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
-  conteducation: True # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    conteducation: True # set to False if you want education in main section instead of in sidebar
 
-  # Profile information
-  name: Ray Zhang
-  tagline: QA Automation Engineer
-  avatar: profilePictureRayZhang.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
+  
+    # Profile information
+    name: Aasim Ghani
+    tagline: QA Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
-  email: rayzhangqa@gmail.com
-  phone: +1 647-299-5699
-  website: rayzhangqa.github.io #do not add http://
-  linkedin: RayZhangQA
-  github: RayZhangQA
-  #    gitlab:
-  #    bitbucket:
-  #twitter: 'ivopdimitrov'
-  #stack-overflow: 9163013/ivopdimitrov # Number/Username, e.g. 123456/alandoe
-  #    codewars:
-  #    goodreads: # Number-Username, e.g. 123456-alandoe
+    # Sidebar links
+    email: Joboff4u@gmail.com
+    phone: 9500477092
+    website:  #do not add http://
+    linkedin: Aasim-Ghani
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
-  languages:
-    - idiom: English
-      level: Fluent
+    languages:
+      - idiom: English
+        level: Professional
 
-    - idiom: Chinese
-      level: Native
+      - idiom: Hindi
+        level: Native
 
-#  interests:
-#    - item: Conditional Training
-#      link:
+      - idiom: Urdu
+        level: Native
+        
+      - idiom: Tamil
+        level: Native
 
-#    - item: Cycling
-#      link:
+
+    interests:
+      - item: Physical Fitness
+        link:
+
+      - item: Sports
+        link:
+
+      - item: Learning
+        link:
+        
+      - item: Gaming
+        link:
 
 career-profile:
-  title: Summary Of Qualifications
-  summary: |
-      10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, 
-      Integration, Regression, Exploratory, Load, Performance and Acceptance Testing
-
-        - Extensive experiences of developing/updating/executing test strategies, planning, use cases, 
+    title: Career Profile
+    summary: |
+      To Utilize my Analytical, Problem Solving, Communication and Interpersonal Skills and Fast Learning Abilities in the field of Information Technology as Software Tester.
+      
+         - Extensive experiences of developing/updating/executing test strategies, planning, use cases, 
         scenarios, test cases, automation scripts
-        - Provide excellent test & defect reports and coordinate with other teams to escalate issues, 
-        prioritize and assign tasks
-        - Automation Frameworks in Python, Java, JavaScript, Selenium WebDriver, Appium, Pytest, TestNG, 
-        Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests
-        - Working experiences in both Agile and Waterfall methodologies, as well as CICD Pipeline and 
-        Continuous test. Version control with GIT, Bitbucket, GitHub
-        - Solid knowledge of Web & Mobile App tests from back end to client side
-        - Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB
-        - Rich experience of customer support for the UAT test and Production issues with excellent problem 
-        solving, analytical troubleshooting and time management skills to meet the deadlines
-        - Training and leading internal project QA teams and Outsourcing QA teams
-        - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
-        Organizational Skills, Active and Reliable Team Player
 
 education:
-  - degree: Master of Information Technology
-    field: Information Technology
-    link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
-    university: Griffith University - Gold Coast Campus
-    link-university: "https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast"
-    time: Information Technology
-
-  - degree: Bachelor degree in Automation
-    field: Automotion Engineer
-    link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
-    university: Shandong University
-    link-university: "https://www.sdu.edu.cn/"
-    time: Automation Engineering
+    - degree: Masters of Computer Science
+      university: Anna University 
+      time: 2015 - 2017
     
 conteducation:
   - degree: Learn Python Programming Masterclass
@@ -170,26 +161,28 @@ experiences:
         - Prepare and communicate test status and progress reports
         - Support customer UAT tests and follows up with other teams internally and externally
         - Perform Load and performing tests with JMeter.
-title: Skills
 
-toolset:
-- name: Java
-level: 78%
+skills:
+    title: Skills &amp; Proficiency
 
-- name: Selenium WebDriver
-level: 85%
+    toolset:
+      - name: Manual Testing
+        level: 98%
 
- - name: Appium
- level: 85%
+      - name: JQuery
+        level: 58%
 
-- name: JUnit
-level: 95%
+      - name: PHP
+        level: 68%
 
-- name: TestNG
-level: 95%
+      - name: HTML5 & CSS
+        level: 75%
 
-- name: Cucumber-JVM
-level: 95%
+      - name: MYSQL
+        level: 75%
+
+      - name: Wordpress & Magento
+        level: 50%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/RayZhangQA" target="_blank" rel="nofollow">Ray Zhang</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
