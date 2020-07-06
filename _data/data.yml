@@ -169,41 +169,28 @@ experiences:
         and where & how the errors can be found
         - Prepare and communicate test status and progress reports
         - Support customer UAT tests and follows up with other teams internally and externally
-        - Perform Load and performing tests with JMeter
+        - Perform Load and performing tests with JMeter.
 	
-	#publications:
-	#  title: Publications
-	#  intro: |
-	#    You can list your publications in this section. Lorem ipsum dolor sit
-	#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-	#    bibendum fringilla a eu lectus.
-	#
-	#  papers:
-	#    - title: The Art of Computer Programming
-	#      authors: Donald E. Knuth
-	#      conference: Addison-Wesley, 1968
-
-
   title: Skills
 
-  toolset:
-    - name: Java
-      level: 78%
+	  toolset:
+	    - name: Java
+	      level: 78%
 
-    - name: Selenium WebDriver
-      level: 85%
+	    - name: Selenium WebDriver
+	      level: 85%
 
-    - name: Appium
-      level: 85%
+	    - name: Appium
+	      level: 85%
 
-    - name: JUnit
-      level: 95%
+	    - name: JUnit
+	      level: 95%
 
-    - name: TestNG
-      level: 95%
+	    - name: TestNG
+	      level: 95%
 
-    - name: Cucumber-JVM
-      level: 95%
+	    - name: Cucumber-JVM
+	      level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/RayZhangQA" target="_blank" rel="nofollow">Ray Zhang</a>
