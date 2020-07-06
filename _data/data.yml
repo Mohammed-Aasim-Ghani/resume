@@ -171,17 +171,17 @@ experiences:
         - Support customer UAT tests and follows up with other teams internally and externally
         - Perform Load and performing tests with JMeter
 	
-#publications:
-#  title: Publications
-#  intro: |
-#    You can list your publications in this section. Lorem ipsum dolor sit
-#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#    bibendum fringilla a eu lectus.
-#
-#  papers:
-#    - title: The Art of Computer Programming
-#      authors: Donald E. Knuth
-#      conference: Addison-Wesley, 1968
+	#publications:
+	#  title: Publications
+	#  intro: |
+	#    You can list your publications in this section. Lorem ipsum dolor sit
+	#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+	#    bibendum fringilla a eu lectus.
+	#
+	#  papers:
+	#    - title: The Art of Computer Programming
+	#      authors: Donald E. Knuth
+	#      conference: Addison-Wesley, 1968
 
 
   title: Skills
