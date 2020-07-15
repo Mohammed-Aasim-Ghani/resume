@@ -98,10 +98,9 @@ conteducation:
     time: Automation Frameworks with Java & API
 
 experiences:
-  - role:  Sr. QA Engineer - Contract
-    time: March 2020 - Present
-    company: Corus Entertainment - Soda Scrum Team
-    link: "https://www.corusent.com/"
+  - role:  Jr. QA Engineer
+    time: July 2017 - JAN 2019
+    company: Iwayy Technologies Solutions
     details: |
 
         - Collaborating with team members of different disciplines across multiple scrum teams in Agile environment
@@ -110,80 +109,27 @@ experiences:
         - Merge and approve developer pull requests and manage the deployment of new features into production
         - Logging, assign and validate the bugs in Jira and provide sprint-based test reports
 
-  - role: SDET - Software Development Engineer in Test
-    time: Oct 2016 - Feb 2020
-    company: AT&T - VODFlow Scrum Team
-    link: "https://www.att.com/"
-    details: |
-      Participate in the whole agile process of product development. Responsible for all aspects of testing
-      include both automated test suites and manual test cases.
-
-        - Develop & Validate the stories, tasks, bugs assigned for the current sprint
-        - Creating, maintaining, executing the automation and manual tests across various streams
-        - Implement and maintain test pipelines as part of the overall CI/CD delivery process
-        - Leading the deployment of the new releases into Dev/Staging/Prod with GIT & BitBucket
-        - Create the release notes and other QA documents in confluence
-        - Login, prioritize, triage, assign and validate the bugs, discuss the solutions with developers
-        - Participate, support the integration tests and collaborate with other scrum teams
-        - Troubleshooting and investigating the issues occurred in various environments and tests
-
-  - role: Sr. QA Engineer and Team Leader
-    time: Apr 2014 - Sep 2016
-    company: QuickPlay Media Inc. - MP5 Developing Team
-    link: "https://www.quickplay.com"
-    details: |
-      Collaborate with the development team and be responsible for building, testing, deploying and executing
-      comprehensive solutions to ensure consistent delivery of high-quality software releases.
-
-        - Optimise, investigate, debug, review and update the functional, sanity, regression, acceptance manual
-        and automated test suites
-        - Working closely with software developers and make sure all product requirements are met and bugs fixed
-        - Design, develop and implement both manual and automated robust tests for the newly developed features
-        - Increasing test coverage and shorten the software development life cycle
-        - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
-        quality and efficiency
-        - Identify, track and report bugs in Jira, reproduce failures, investigate their root causes, and verify 
-        the bug fixes
-        - Provide comprehensive test reports, the detailed instructions of setup prod MP5 workflows and profiles
-        - Leading, training, monitoring India MP5 QA team and new QA members.
- 
-  - role: Quality Assurance Engineer
-    time: Nov 2007 - Mar 2014
-    company: QuickPlay Media Inc. - Open Video Developing Team
-    link: "https://www.quickplay.com"
-    details: |
-      Conducting tests before product launches to ensure software runs smoothly and meets customer requirements
-    
-        - Define test plans, create and execute test cases include manual and automated test suites
-        - Estimating, prioritising, planning and coordinating quality testing activities
-        - Test the latest version of Web and Mobile applications on both server side and client side        
-        - Performing defects review, analysis, and troubleshooting with extensive explanation of recreating bugs 
-        and where & how the errors can be found
-        - Prepare and communicate test status and progress reports
-        - Support customer UAT tests and follows up with other teams internally and externally
-        - Perform Load and performing tests with JMeter.
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Manual Testing
-        level: 98%
+        level: 80%
 
       - name: JQuery
-        level: 58%
+        level: 50%
 
       - name: PHP
-        level: 68%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 75%
+        level: 60%
 
       - name: MYSQL
-        level: 75%
+        level: 69%
 
       - name: Wordpress & Magento
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
