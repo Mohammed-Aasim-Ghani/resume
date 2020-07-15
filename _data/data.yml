@@ -68,12 +68,6 @@ education:
       time: 2015 - 2017
     
 conteducation:
-  - degree: Learn Python Programming Masterclass
-    field: Python Language
-    link-degree: "https://www.udemy.com/course/python-the-complete-python-developer-course/"
-    university: Udemy
-    link-university: "https://www.udemy.com/"
-    time: Python Language
     
   - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
     field: Automation Frameworks - Java & Selenium
@@ -82,19 +76,19 @@ conteducation:
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java and Selenium  
 
-  - degree: Selenium with Python Full Course For Beginners
-    field: Automation Frameworks - Python & Selenium
-    link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
-    university: Youtube - SDET Channel
-    link-university: "https://www.youtube.com/user/pavanoltraining/about"
-    time: Automation Frameworks with Python & Selenium
+  - degree: SDET/QA Automation Interview Kit + Java logic Programs
+    field: Automation Frameworks - Java & Selenium
+    link-degree: "https://www.udemy.com/course/qa-automation-interview-questions/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+    time: Automation Frameworks with Java & Selenium
 
-  - degree: Robot Framework Test Automation - Level 1 & 2
-    field: Automation Framework - Robot Framework & Python
-    link-degree: "https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me"
-    university: LinkedIn Learning
-    link-university: "https://www.linkedin.com/learning/"
-    time: Automation Framework - Robot Framework & Python
+  - degree: Rest API Testing (Automation) from Scratch -RestAssured Java
+    field: Automation Framework - API Framework With Java
+    link-degree: "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+    time: Automation Frameworks with Java & API
 
 experiences:
   - role:  Sr. QA Engineer - Contract
