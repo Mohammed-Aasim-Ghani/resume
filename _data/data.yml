@@ -64,7 +64,7 @@ career-profile:
          - Testing the End-to-End Functionality of the Web Based Application.
          - Develop Design and Execution of Testcase.
          - Involved in defect reporting, defect tracking and defect reproducing.
-         - Experiences of SQL databases with proficient SQL skills.
+         - Experiences of SQL databases with Intermediate SQL skills.
          - Solid knowledge of Web & Mobile App Functionality testing.
          - Working Knowledge of CMS Tools Like Magento & Wordpress.
          - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional Organizational Skills, Active and Reliable Team Player.
@@ -103,16 +103,32 @@ experiences:
     company: Iwayy Technologies Solutions
     details: |
 
-        - Collaborating with team members of different disciplines across multiple scrum teams in Agile environment
-        - Create, execute and maintain automated test suites for Websites using Selenium WebDriver and Java
-        - Provide testing estimates based on specifications and acceptance criteria 
-        - Merge and approve developer pull requests and manage the deployment of new features into production
-        - Logging, assign and validate the bugs in Jira and provide sprint-based test reports
+         - Actively participated in all QA and testing activities during UAT and SDLC.
+         - Actively participated in smoke, functional and ad-hoc testing during SIT phase.
+         - Testing the End-to-End Functionality of the Web Based Application.
+         - Develop Design and Execution of Testcase.
+         - Involved in defect reporting, defect tracking and defect reproducing.
+         - Experiences of SQL databases with Intermediate SQL skills.
+         - Solid knowledge of Web & Mobile App Functionality testing.
+         - Working Knowledge of CMS Tools Like Magento & Wordpress.
+         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional Organizational Skills, Active and Reliable Team Player.
+         
+         
+experiences:
+  - role:  Jr. QA Engineer
+    time: July 2017 - JAN 2019
+    company: Iwayy Technologies Solutions
+    details: |
+    
+          - Actively participated in all QA and testing activities during UAT and SDLC.       
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Selenium
+        level: 50%
+        
       - name: Manual Testing
         level: 80%
 
