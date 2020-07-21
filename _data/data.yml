@@ -99,8 +99,8 @@ conteducation:
     
 career-profile:
     title: Certification
-    summary: |
-      -link-degree: "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/"
+      - degree: Rest API Testing (Automation) from Scratch -RestAssured Java
+        link-degree: "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/"
 
 experiences:
   - role:  Jr. QA Engineer
