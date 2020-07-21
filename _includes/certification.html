@@ -1,18 +1,18 @@
 {% assign interests = site.data.data.sidebar.interests %}
-{% if interests %}
+{% if certification %}
 <div class="interests-container container-block">
 
     <h2 class="container-block-title">
-        Interests
+        Certification
     </h2>
 
     <ul class="list-unstyled interests-list">
-        {% for interest in interests %}
+        {% for certification in certification %}
 
-        {% if interest.link %}
-        <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+        {% if certification.link %}
+        <li><a href="{{ certification.link }}">{{ certification.item }}</a></li>
         {% else %}
-        <li>{{ interest.item }}</li>
+        <li>{{ certification.item }}</li>
         {% endif %}
 
         {% endfor %}
