@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Resume Ray Zhang
+title: Resume Aasim Ghani
 url: 'https://mohammed-aasim-ghani.github.io/resume/'
 baseurl: '/resume' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
