@@ -26,6 +26,19 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    Certification:
+      - item: Physical Fitness
+        link:
+
+      - item: Sports
+        link:
+
+      - item: Learning
+        link:
+        
+      - item: Gaming
+        link:
 
     languages:
       - idiom: English
@@ -39,20 +52,6 @@ sidebar:
         
       - idiom: Tamil
         level: Native
-
-
-    interests:
-      - item: Physical Fitness
-        link:
-
-      - item: Sports
-        link:
-
-      - item: Learning
-        link:
-        
-      - item: Gaming
-        link:
 
 career-profile:
     title: Career Profile
