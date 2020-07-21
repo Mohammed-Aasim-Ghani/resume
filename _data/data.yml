@@ -96,6 +96,11 @@ conteducation:
     university: Udemy
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java & API
+    
+career-profile:
+    title: Certification
+    summary: |
+      -link-degree: "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/"
 
 experiences:
   - role:  Jr. QA Engineer
