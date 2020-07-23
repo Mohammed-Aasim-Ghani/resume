@@ -77,7 +77,7 @@ conteducation:
     link-degree: "https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/"
     university: Udemy
     link-university: "https://www.udemy.com/"
-    time: Automation Frameworks with Java & Selenium
+    time: Automation Frameworks with Java & Appium
 
   - degree: Rest API Testing (Automation) from Scratch -RestAssured Java
     field: Automation Framework - API Framework With Java
