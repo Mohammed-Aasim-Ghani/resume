@@ -72,9 +72,9 @@ conteducation:
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java and Selenium  
 
-  - degree: SDET/QA Automation Interview Kit + Java logic Programs
-    field: Automation Frameworks - Java & Selenium
-    link-degree: "https://www.udemy.com/course/qa-automation-interview-questions/"
+  - degree: Appium -Mobile Automation Testing from Scratch + Frameworks
+    field: Mobile Automation Frameworks - Java & Appium
+    link-degree: "https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/"
     university: Udemy
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java & Selenium
